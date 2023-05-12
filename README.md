@@ -7,15 +7,6 @@
 
 
 ### Utilizo as linguagens de programação: 💻
- <div style="background-color: #f5f5f5; text-align: center; padding: 30px;">
-    <h1>Meu Portfólio</h1>
-    <div style="display: flex; justify-content: center; align-items: center; height: 300px;">
-      <div style="width: 200px; height: 200px; background-color: #ffffff; border-radius: 50%; margin: 20px;">
-        <h2 style="color: #333333; font-size: 24px; margin-top: 10px;">Advpl</h2>
-      </div>
-      <div style="width: 200px; height: 200px; background-color: #ffffff; border-radius: 50%; margin: 20px;">
-        <h2 style="color: #333333; font-size: 24px; margin-top: 10px;">TLPP</h2>
-      </div>
-    </div>
-  </div>
+### ADVPL & TLPP 
+
 
